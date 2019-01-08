@@ -1,2 +1,3 @@
 echo "đây là tính năng mới" 
 phát hành phiên bản 1.0
+đã fix bug
